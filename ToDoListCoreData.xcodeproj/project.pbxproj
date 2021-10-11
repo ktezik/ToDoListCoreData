@@ -12,6 +12,7 @@
 		F456BBA127147CE800D221F2 /* ToDoListCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F456BB9F27147CE800D221F2 /* ToDoListCoreData.xcdatamodeld */; };
 		F456BBA327147CE900D221F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F456BBA227147CE900D221F2 /* Assets.xcassets */; };
 		F456BBA627147CE900D221F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F456BBA427147CE900D221F2 /* LaunchScreen.storyboard */; };
+		F456BBAE27148E2300D221F2 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F456BBAD27148E2300D221F2 /* StorageManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F456BBA227147CE900D221F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F456BBA527147CE900D221F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F456BBA727147CE900D221F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F456BBAD27148E2300D221F2 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F456BB9627147CE800D221F2 /* AppDelegate.swift */,
 				F456BB9A27147CE800D221F2 /* TaskListViewController.swift */,
 				F456BBA227147CE900D221F2 /* Assets.xcassets */,
+				F456BBAD27148E2300D221F2 /* StorageManager.swift */,
 				F456BBA427147CE900D221F2 /* LaunchScreen.storyboard */,
 				F456BBA727147CE900D221F2 /* Info.plist */,
 				F456BB9F27147CE800D221F2 /* ToDoListCoreData.xcdatamodeld */,
@@ -137,6 +140,7 @@
 				F456BB9B27147CE800D221F2 /* TaskListViewController.swift in Sources */,
 				F456BB9727147CE800D221F2 /* AppDelegate.swift in Sources */,
 				F456BBA127147CE800D221F2 /* ToDoListCoreData.xcdatamodeld in Sources */,
+				F456BBAE27148E2300D221F2 /* StorageManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
